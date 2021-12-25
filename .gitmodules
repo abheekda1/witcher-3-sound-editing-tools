@@ -1,0 +1,3 @@
+[submodule "ww2ogg"]
+	path = ww2ogg
+	url = https://github.com/hcs64/ww2ogg
